@@ -1,0 +1,13 @@
+{
+  "plugin": "Musique Distortion",
+  "presets": [
+    {"name":"Soft Tube", "drive":8.0, "tone":0.62, "blend":48.0, "output":-1.0, "mode":2, "mix":100.0, "bypass":false, "mono":false},
+    {"name":"Modern Crunch", "drive":14.0, "tone":0.58, "blend":64.0, "output":-2.0, "mode":0, "mix":100.0, "bypass":false, "mono":false},
+    {"name":"Fuzz Wall", "drive":26.0, "tone":0.51, "blend":86.0, "output":-4.0, "mode":0, "mix":100.0, "bypass":false, "mono":false},
+    {"name":"Bit Crush Lead", "drive":18.0, "tone":0.46, "blend":72.0, "output":-3.0, "mode":1, "mix":100.0, "bypass":false, "mono":false},
+    {"name":"Parallel Dirt", "drive":16.0, "tone":0.55, "blend":40.0, "output":-1.5, "mode":2, "mix":58.0, "bypass":false, "mono":false},
+    {"name":"Bass Saturate", "drive":10.0, "tone":0.44, "blend":58.0, "output":-1.0, "mode":2, "mix":82.0, "bypass":false, "mono":true},
+    {"name":"LoFi Edge", "drive":20.0, "tone":0.37, "blend":67.0, "output":-2.5, "mode":1, "mix":100.0, "bypass":false, "mono":false},
+    {"name":"Clean Harmonics", "drive":6.0, "tone":0.68, "blend":28.0, "output":0.0, "mode":2, "mix":72.0, "bypass":false, "mono":false}
+  ]
+}
